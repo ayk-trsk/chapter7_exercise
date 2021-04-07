@@ -24,4 +24,22 @@ main {
 .service1 {
   padding-bottom: 30px;
   border-bottom: 1px solid #777777;
+  margin-bottom: 30px;
+}
+
+.service2 {
+  padding-bottom: 30px;
+  border-bottom: 1px solid #777777;
+  margin-bottom: 30px;
+}
+
+.service3 {
+  padding-bottom: 30px;
+  border-bottom: 1px solid #777777;
+  margin-bottom: 30px;
+}
+
+.service4 {
+  padding-bottom: 30px;
+  border-bottom: 1px solid #777777;
 }
